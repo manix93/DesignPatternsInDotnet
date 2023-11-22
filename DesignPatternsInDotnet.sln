@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInDotnet.Creational.Builder", "DesignPatternsInDotnet.Creational.Builder\DesignPatternsInDotnet.Creational.Builder.csproj", "{3AE86915-240C-4D2F-82D7-73D232B9DD83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsInDotnet.Creational.Factory", "DesignPatternsInDotnet.Creational.Factory\DesignPatternsInDotnet.Creational.Factory.csproj", "{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3AE86915-240C-4D2F-82D7-73D232B9DD83} = {39F8EDEC-39A9-47A5-A25E-1F481F796E53}
+		{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942} = {39F8EDEC-39A9-47A5-A25E-1F481F796E53}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3AE86915-240C-4D2F-82D7-73D232B9DD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3AE86915-240C-4D2F-82D7-73D232B9DD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE86915-240C-4D2F-82D7-73D232B9DD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE86915-240C-4D2F-82D7-73D232B9DD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E30D86-BB6B-45FF-B4A5-B9C5BCB59942}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
